@@ -447,6 +447,7 @@ markers:
       ', id: KR4d0200_krp_001-bkkkrnewl91}
   - {type: line-break, offset: 1493, content: '', id: KR4d0200_WYG_001-6a02}
   - {type: punctuation, offset: 1499, content: (, id: KR4d0200_krp_001-bkkpn1}
+  - {type: voice, offset: 1499, length: 63, name: note, id: n1}
   - {type: substitution, offset: 1500, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: punctuation, offset: 1514, content: /, id: KR4d0200_krp_001-bkkpn2}
   - {type: substitution, offset: 1520, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
@@ -800,6 +801,7 @@ markers:
       ', id: KR4d0200_krp_001-bkkkrnewl165}
   - {type: line-break, offset: 2740, content: '', id: KR4d0200_WYG_001-10a04}
   - {type: punctuation, offset: 2745, content: (, id: KR4d0200_krp_001-bkkpn7}
+  - {type: voice, offset: 2745, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 2747, content: /, id: KR4d0200_krp_001-bkkpn8}
   - {type: punctuation, offset: 2748, content: ), id: KR4d0200_krp_001-bkkpn9}
   - {type: 'kr:newline', offset: 2758, content: '
@@ -1499,6 +1501,7 @@ markers:
   - {type: indent, offset: 5110, content: 　　　, id: KR4d0200_krp_001-bkkind44}
   - {type: substitution, offset: 5115, original: 扵, replacement: 于, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20172}}
   - {type: punctuation, offset: 5120, content: (, id: KR4d0200_krp_001-bkkpn10}
+  - {type: voice, offset: 5120, length: 8, name: note, id: n3}
   - {type: substitution, offset: 5122, original: 横, replacement: 橫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20786}}
   - {type: punctuation, offset: 5124, content: /, id: KR4d0200_krp_001-bkkpn11}
   - {type: punctuation, offset: 5128, content: ), id: KR4d0200_krp_001-bkkpn12}
@@ -1761,4 +1764,4 @@ markers:
 
       ', id: KR4d0200_krp_001-bkkkrnewl363}
   back: []
-hash: sha256:22e38bd3331e1589c5de683e9bbcaba2d9d134a83d9b64de343f5cf18d690dd1
+hash: sha256:de6da44b1be68b2205af8a438324d51910b02ddb3780f0db4fbefdaf328ed092
